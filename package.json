@@ -27,12 +27,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/delorenj/mcp-server-tm-partner.git"
+    "url": "git+https://github.com/robandrewford/mcp-server-tm-partner.git"
   },
   "bugs": {
-    "url": "https://github.com/delorenj/mcp-server-tm-partner/issues"
+    "url": "https://github.com/robandrewford/mcp-server-tm-partner/issues"
   },
-  "homepage": "https://github.com/delorenj/mcp-server-tm-partner#readme",
+  "homepage": "https://github.com/robandrewford/mcp-server-tm-partner#readme",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"

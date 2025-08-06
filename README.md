@@ -157,7 +157,7 @@ The server provides a tool called `search_tm_partner` that accepts:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/delorenj/mcp-server-tm-partner.git
+   git clone https://github.com/robandrewford/mcp-server-tm-partner.git
    cd mcp-server-tm-partner
    ```
 
@@ -202,5 +202,5 @@ MIT License - see [LICENSE](LICENSE) file for details
 ## Support
 
 For issues and questions:
-- GitHub Issues: [https://github.com/delorenj/mcp-server-tm-partner/issues](https://github.com/delorenj/mcp-server-tm-partner/issues)
+- GitHub Issues: [https://github.com/robandrewford/mcp-server-tm-partner/issues](https://github.com/robandrewford/mcp-server-tm-partner/issues)
 - Ticketmaster Partner Support: Available through your partner portal
