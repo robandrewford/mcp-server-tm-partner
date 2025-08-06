@@ -1,0 +1,42 @@
+# Source files (we publish built files)
+src/
+tsconfig.json
+
+# Development files
+.env
+.env.example
+.gitignore
+.npmignore
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+coverage/
+.nyc_output/
+test/
+tests/
+*.test.js
+*.test.ts
+
+# Build artifacts we don't need
+*.js.map
+*.d.ts.map
+
+# Documentation source
+docs/
+
+# CI/CD
+.github/
+.gitlab-ci.yml
+.travis.yml
+
+# Temporary files
+tmp/
+temp/
+*.tmp
